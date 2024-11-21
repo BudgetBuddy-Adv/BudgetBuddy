@@ -40,7 +40,7 @@ Backend: Express.js, PostgreSQL, Node.js
 
 [Categorize expenses into predefined or custom categories for better tracking and analysis.]
 
-[gif goes here]
+[Click Me](https://i.imgur.com/1dnVZTT.gif)
 
 ### [ADDITIONAL FEATURES GO HERE - ADD ALL FEATURES HERE IN THE FORMAT ABOVE; you will check these off and add gifs as you complete them]
 
