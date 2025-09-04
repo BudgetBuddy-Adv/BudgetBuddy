@@ -1,10 +1,8 @@
-# [BudgetBuddy]
-
-CodePath WEB103 Final Project
+# BudgetBuddy
 
 Designed and developed by: [Ayushi Porwal]
 
-🔗 Link to deployed app:
+🔗 Link to deployed app:https://budget-buddy-69y4gn5wl-ayushi-porwal.vercel.app/
 
 ## About
 
