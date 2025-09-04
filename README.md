@@ -26,28 +26,32 @@ Backend: Express.js, PostgreSQL, Node.js
 ### ✅ User Registration & Login System
 Secure authentication system that allows users to register accounts and log in to manage personal budgets.
 
-![User Registration](https://i.imgur.com/UVGqAxr.gif)
+![User Registration](https://i.imgur.com/1q884f9.gif)
 
 ---
 
 ### ✅ Income and Expense Tracking
 Feature enabling users to add, edit, and delete income and expenses, with real-time budget updates.
 
-![Income and Expense Tracking](https://i.imgur.com/UVGqAxr.gif)
+#### Expense Tracking
+![Expense Tracking](https://i.imgur.com/rOZk2i8.gif)
+
+#### Income Tracking
+![Income Tracking](https://i.imgur.com/9ZOm42f.gif)
 
 ---
 
 ### ✅ Expense Categorization
 Categorize expenses into predefined or custom categories for better tracking and analysis.
 
-![Expense Categorization](https://i.imgur.com/1dnVZTT.gif)
+![Expense Categorization](https://i.imgur.com/AmSoisZ.gif)
 
 ---
 
 ### ✅ Savings Goals
 Allows users to set and monitor savings goals with progress tracking.
 
-![Savings Goals](https://i.imgur.com/1dnVZTT.gif)
+![Savings Goals](https://i.imgur.com/McUt9Mb.gif)
 
 ---
 
@@ -61,7 +65,7 @@ A visual dashboard showing total income, expenses, remaining budget, and categor
 ### ✅ Expense Filtering and Sorting
 Filter and sort expenses by category, date, or amount for detailed insights.
 
-![Expense Filtering and Sorting](https://i.imgur.com/1dnVZTT.gif)
+![Expense Filtering and Sorting](https://i.imgur.com/AmSoisZ.gif)
 
 ---
 
